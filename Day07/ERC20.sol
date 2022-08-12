@@ -2,6 +2,6 @@
 
 pragma solidity ^0.8.4;
 
-contract smartBank{
+contract erc20{
     
 }
